@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyson-neves&label=Profile%20views&color=0e75b6&style=flat" alt="tyson-neves" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Bora trocar um papo? :)</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devpedro-neves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/devpedro-neves/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/tysonneves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tysonneves/" height="30" width="40" /></a>
