@@ -1,5 +1,5 @@
 <h1 align="center">Hello guys 👋, meu nome é Pedro Neves</h1>
-<h3 align="center">Sou estudante de front-end do Brasil</h3>
+<h3 align="center">Sou brasileiro, mineirinho de BH e estudante de front-end</h3>
 
 <p>😊 Meu apelido é Tyson Neves, então se me verem com esse nickname não se assustem haha sou eu;
 <p> 👨🏾‍🎓 Eu sou formado em Ciências do Estado pela UFMG (sim um curso de ciências políticas), mas quero trabalhar com front-end que é uma paixão minha;
