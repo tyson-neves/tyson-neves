@@ -1,11 +1,11 @@
 <h1 align="center">Hello guys 👋, meu nome é Pedro Neves</h1>
 <h3 align="center">Sou estudante de front-end do Brasil</h3>
 
-<p>😊 meu apelido é Tyson Neves, então se me verem com esse nickname não se assustem haha sou eu;
+<p>😊 Meu apelido é Tyson Neves, então se me verem com esse nickname não se assustem haha sou eu;
 <p> 👨🏾‍🎓 Eu sou formado em Ciências do Estado pela UFMG (sim um curso de ciências políticas), mas quero trabalhar com front-end que é uma paixão minha;
 <p> 👨🏾‍💻 Atualmente eu estou estudando tanto a parte do front-end (javascript) como User Interface (UI);
-<p> 🙌 Tenho bons conhecimentos de HTML e CSS e estou aprofundando em javascript, por isso me considero ainda um desenvolvedor júnior. Tenho interesse principalmente por React e vue;
-<p>👨🏾‍🎨 Tenho formação em computação gráfica em softwares como: photoshop, illustrator, premiere, adobexd e figma. Além de ter muita facilidade de aprender softwares correlatos;
+<p> 🙌 Bons conhecimentos de HTML e CSS e estou aprofundando em javascript, por isso me considero ainda um desenvolvedor júnior. Tenho interesse principalmente por React e vue;
+<p>👨🏾‍🎨 Formação em computação gráfica em softwares como: photoshop, illustrator, premiere, adobexd e figma. Além de ter muita facilidade de aprender softwares correlatos;
 <p>😁 Tenho nível intermediário de inglês(b2) e continuo estudando para adquirir fluência;
 <p>⚡ Eu adoro games em geral, toco bateria e sou uma pessoa bem esportiva;
 
