@@ -9,7 +9,6 @@
 <p>😁 Tenho nível intermediário de inglês(b2) e continuo estudando para adquirir fluência;
 <p>⚡ Eu adoro games em geral, toco bateria e sou uma pessoa bem esportiva;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyson-neves&label=Profile%20views&color=0e75b6&style=flat" alt="tyson-neves" /> </p>
 
 <h3 align="left">Bora trocar um papo? :)</h3>
 <p align="left">
