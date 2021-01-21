@@ -12,8 +12,8 @@
 
 <h3 align="left">Bora trocar um papo? :)</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devpedro-neves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/devpedro-neves/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/tysonneves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tysonneves/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devpedro-neves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/devpedro-neves/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tysonneves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tysonneves/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Minha área de interesse é:</h3>
