@@ -4,9 +4,9 @@
 <p>😊 My nickname is Tyson Neves. You possible will see some profile about me with my nickname, but yeah it's me;
 <p> 👨🏾‍🎓 I have a bachelor's degree in State Science from UFMG (yeah I know... is a political sciense course), but I really want to work with frontend development;
 <p> 👨🏾‍💻 Actually I'm studying javascript and react.js and I'm studying User Experience and User Interface design (UX/UI Design);
-<p> 🙌 I have a great knowledge in HTML and CSS and for now I'm focusing in SASS and Javascript Vanilla. Because of this i'm a junior developer. After I want to learn more about react.js and vuejs
+<p> 🙌 I have a great knowledge in HTML and CSS and for now I'm focusing in SASS and Javascript Vanilla. Because of this I'm a junior developer. After I want to learn more about react.js and vuejs
 <p>👨🏾‍🎨 I have a techological degree in graphic design and I have knowledge in softwares like photoshop, illustrator, premiere, adobexd e figma. And I have facilities to learn similar softwares like invision, sketch and others.
-<p>😁 My English is intermediate(B2) and I keep studying to be fluent as soon as possible;
+<p>😁 My English is advanced (C1) and I keep studying to be fluent as soon as possible;
 <p>⚡ I love games in general, I play drums and I'm a very sportist guy;
 
 
