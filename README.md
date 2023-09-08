@@ -1,10 +1,10 @@
 <h1 align="center">Hello guys 👋, my name is Pedro Neves</h1>
-<h3 align="center">I'm from Brazil, living in Belo Horizonte and I'm a front-end student</h3>
+<h3 align="center">I'm from Brazil, living in Belo Horizonte and I'm a Product Designer</h3>
 
 <p>😊 My nickname is Tyson Neves. You possible will see some profile about me with my nickname, but yeah it's me;
-<p> 👨🏾‍🎓 I have a bachelor's degree in State Science from UFMG (yeah I know... is a political sciense course), but I really want to work with frontend development;
-<p> 👨🏾‍💻 Actually I'm working as a Product Designer at Locaweb work with prototype UIs, making researchs and using design system;
-<p> 🙌 I have a great knowledge in HTML and CSS and for now I'm focusing in learn a lil of mobile development with kotlin.
+<p> 👨🏾‍🎓 I have a bachelor's degree in State Science from UFMG (yeah I know... is a political sciense course), but it is fit perfect with the UX Role;
+<p> 👨🏾‍💻 Actually I'm working as a Product Designer at Locaweb work with prototype UIs, making researchs and using design system and I started to study mobile development with kotlin for Android Studio;
+<p> 🙌 I have a great knowledge in HTML and CSS;
 <p>👨🏾‍🎨 I have a techological degree in graphic design and I have knowledge in softwares like photoshop, illustrator, premiere, adobexd e figma. And I have facilities to learn similar softwares like invision, sketch and others.
 <p>😁 My English is advanced (C1) and I keep studying to be fluent as soon as possible;
 <p>⚡ I love games in general, I play drums and I'm a very sportist guy;
