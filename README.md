@@ -10,7 +10,6 @@
 <p>⚡ I love games in general, I play drums and I'm a very sportist guy;
 
 
-<h3 align="left">c'mon chat?? 😁</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/uxpedro-neves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/uxpedro-neves/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tysonneves/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tysonneves/" height="30" width="40" /></a>
